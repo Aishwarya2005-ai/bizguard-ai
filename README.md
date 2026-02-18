@@ -23,4 +23,17 @@ It analyzes business financial data and provides:
 1. Clone the repository
 2. Install requirements:
 
+---
+
+## 👩‍💻 Founder
+
+BizGuard AI was conceptualized, designed, and developed by **Aishwarya S**.
+
+This project represents an innovative approach to AI-powered business risk intelligence and financial survival analytics.
+
+---
+
+© 2026 BizGuard AI | Created by Aishwarya S
+
+
 
