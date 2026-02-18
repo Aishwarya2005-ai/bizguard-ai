@@ -34,6 +34,8 @@ This project represents an innovative approach to AI-powered business risk intel
 ---
 
 © 2026 BizGuard AI | Created by Aishwarya S
+Engineering Student 
+@ The Oxford College Of Engineering
 
 
 
